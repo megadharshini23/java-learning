@@ -48,8 +48,6 @@ Welcome to **Day 2** of my Java learning journey! Today, I explored how Java use
 - `SwitchStatement.java`
 - `PositiveNegative.java`
 - `VotingEligibility.java`
-- `LargestOfTwo.java`
-- `StudentGrade.java`
 - `Calculator.java`
 - `ATMWithdrawal.java`
 - `LoginValidation.java`
