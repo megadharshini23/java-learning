@@ -1,5 +1,5 @@
 //class
-class Calculator{
+public class Calculatorapp{   //one class
 
     String Company = "casio";  //instance variable  
 
@@ -19,11 +19,10 @@ public int add(int n1, int n2) {        //if ,elseif.
     public int div(int n1, int n2) {
         return n1 / n2;
     }
-  }
+  
 
-public class demo{
 public static void main(String[] args) {
-    Calculator obj=new Calculator();
+    Calculatorapp obj=new Calculatorapp();
     
     int a=obj.add(5,8);
     int b=obj.sub(5,9);
@@ -35,6 +34,5 @@ public static void main(String[] args) {
     System.out.println(c);
     System.out.println(d);
 
-    
- }
 }
+ }
