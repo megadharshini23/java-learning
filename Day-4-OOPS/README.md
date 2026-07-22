@@ -47,19 +47,6 @@ Day-4-OOPS
 ├── README.md
 └── Demo.java
 ```
-
----
-
-## 🚀 What's Next?
-
-➡️ Constructors
-
-➡️ Method Overloading
-
-➡️ Encapsulation
-
-➡️ Inheritance
-
 ---
 
 > 💡 Every day I build one step closer to becoming a Java Software Engineer.
