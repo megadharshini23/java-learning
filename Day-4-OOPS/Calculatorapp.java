@@ -1,5 +1,5 @@
 //class
-public class Calculatorapp{   //one class
+public class calculatorapp{   //one class
 
     String Company = "casio";  //instance variable  
 
@@ -22,7 +22,7 @@ public int add(int n1, int n2) {        //if ,elseif.
   
 
 public static void main(String[] args) {
-    Calculatorapp obj=new Calculatorapp();
+    calculatorapp obj=new calculatorapp();
     
     int a=obj.add(5,8);
     int b=obj.sub(5,9);
